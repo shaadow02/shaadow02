@@ -1,0 +1,2 @@
+- 👋 Siema jestem @shaadow02
+- 📫 How to reach me no i ten pozdrawiam
