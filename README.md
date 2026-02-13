@@ -1,2 +1,1 @@
-- 👋 Siema jestem @shaadow02
-- 📫 jebac kurwy
+- 👋 dc; shdwgod
