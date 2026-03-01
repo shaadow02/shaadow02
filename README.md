@@ -1,1 +1,1 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=shaadow02)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
